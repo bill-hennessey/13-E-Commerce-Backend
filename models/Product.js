@@ -32,11 +32,16 @@ Product.init(
       validate: {
         isInt: true,
       },
+      defaultValue: 10,
       // default value 10
     },
     categoryId: {
       type: DataTypes.INTEGER,
       // References the Category model's id.
+      references: {
+        model: "category",
+        key: "id",
+      },
     },
   },
   {
