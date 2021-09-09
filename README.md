@@ -12,9 +12,7 @@ Nothing to install.
 
 Run the schema file in SQL shell, run the server.js file to populate the DB with tables, run the seeds files to populate the data, and test the routes using Insomnia.
 
-    ```md
-    ![Walk thru Video](https://drive.google.com/file/d/1E3Zd8OWrzQcMW13P3bsluJAhBqY2yeg6/view)
-    ```
+[Walk thru Video](https://drive.google.com/file/d/1E3Zd8OWrzQcMW13P3bsluJAhBqY2yeg6/view)
 
 ## Credits
 
